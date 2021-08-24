@@ -93,7 +93,7 @@ time.sleep(0.5)
 if idk: 
   for idk in range(40):
    time.sleep(000.02)
-print(Fore.RED+"              [$]Reportes exitosos[$]")
+print(Fore.RED+"              [$]Reportes exitosos[$]"+Fore.RESET)
 time.sleep(15)
 
         
