@@ -77,8 +77,7 @@ print(Fore.RED+"""
       @@@@          @@@@@@@@@@@          @@@@
    @@@@@              @@@@@@@              @@@@@
   @@@@@@@                                 @@@@@@@
-   @@@@@                                   @@@@@
-=====================By Qu3ti=======================
+ 
 """)
 print("T: Tiktok/F: Facebook/ IG: instagram/Elije con la inicial!")
 que = input('En que plataforma quieres reportar? Facebook/Instagram/Tiktok?: '+Fore.RESET)
@@ -95,6 +94,6 @@ if idk:
   for idk in range(40):
    time.sleep(000.02)
 print(Fore.RED+"              [$]Reportes exitosos[$]"+Fore.RESET)
-time.sleep(15)
+time.sleep(17)
 
         
