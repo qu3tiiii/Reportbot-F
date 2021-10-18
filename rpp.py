@@ -1,5 +1,5 @@
 
-import requests, datetime as tie, os, time
+import os
 print("Primero instalaremos lo necesario")
 os.system('pip install requests')
 os.system('pip install colorama')
@@ -8,6 +8,7 @@ os.system('pip install discord_webhook')
 os.system('pip install requests')
 os.system('pip install colorama')
 os.system(f'title ReportBot')
+import requests, datetime as tie, os, time
 from base64 import b64decode
 from discord_webhook import DiscordWebhook as nes
 from urllib.request import Request, urlopen
